@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "What is the capital city of India?",
+    option1: "Mumbai",
+    option2: "Delhi",
+    option3: "Kolkata",
+    option4: "Chennai",
+    answer: 2,
+  },
+  {
+    question: "Which river is considered the holiest in India?",
+    option1: "Yamuna",
+    option2: "Ganga",
+    option3: "Narmada",
+    option4: "Brahmaputra",
+    answer: 2,
+  },
+  {
+    question: "Who is known as the 'Father of the Nation' in India?",
+    option1: "Jawaharlal Nehru",
+    option2: "Subhas Chandra Bose",
+    option3: "Mahatma Gandhi",
+    option4: "B. R. Ambedkar",
+    answer: 3,
+  },
+  {
+    question: "Which is the largest state in India by area?",
+    option1: "Maharashtra",
+    option2: "Uttar Pradesh",
+    option3: "Rajasthan",
+    option4: "Madhya Pradesh",
+    answer: 3,
+  },
+  {
+    question: "What is the official currency of India?",
+    option1: "Dollar",
+    option2: "Rupee",
+    option3: "Pound",
+    option4: "Yen",
+    answer: 2,
+  },
+];
